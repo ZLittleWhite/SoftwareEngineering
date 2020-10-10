@@ -1,2 +1,2 @@
-# SoftwareEngineering
-软件工程作业提交的仓库
+### se_Test2配套后端Go语言代码
+> Go语言
