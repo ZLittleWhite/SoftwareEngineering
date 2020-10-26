@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/webforah/vendor/league/flysystem-cached-adapter" />
+      <path value="$PROJECT_DIR$/webforah/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/webforah/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/webforah/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/webforah/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/webforah/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/webforah/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/webforah/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/webforah/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/webforah/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/webforah/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/webforah/vendor/composer" />
+      <path value="$PROJECT_DIR$/webforah/vendor/topthink/think-trace" />
+      <path value="$PROJECT_DIR$/webforah/vendor/topthink/think-helper" />
+      <path value="$PROJECT_DIR$/webforah/vendor/topthink/think-orm" />
+      <path value="$PROJECT_DIR$/webforah/vendor/topthink/framework" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+</project>

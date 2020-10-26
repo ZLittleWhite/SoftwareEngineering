@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/webforah/extend" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webforah/app" isTestSource="false" packagePrefix="app\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/league/flysystem-cached-adapter" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/topthink/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/topthink/think-helper" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/topthink/think-orm" />
+      <excludeFolder url="file://$MODULE_DIR$/webforah/vendor/topthink/think-trace" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
